@@ -15,6 +15,7 @@
                     @endif
 
                     {{ __('You are logged in!') }}
+                 
                       <div class="mt-4">
                       <div class="row row-cols-1 row-cols-md-2 ">
                                 <div class="col">
@@ -28,7 +29,11 @@
                                     </div>
                                 </div>
                       </div>
-                      <button type="submit" class="btn btn-primary mt-3">Paypal Payment</button>
+                      <form action="{{route('paypalPayment')}}" method="POST">
+                       @csrf
+                            <input type="hidden" name="amount" value="100">
+                            <button type="submit" class="btn btn-primary mt-3">Pay with Paypal</button>
+                    </form>
                 </div>
                 
             </div>
