@@ -19,3 +19,16 @@ composer require league/omnipay:^3 omnipay/paypal
 ## Input
 
 ![dashboad](https://user-images.githubusercontent.com/80118217/180500845-5cff9df2-6cce-4a67-9576-b6ff4d034996.JPG)
+
+
+## Output
+
+![paypal](https://user-images.githubusercontent.com/80118217/180500985-0715cf0e-a3fc-4564-8689-f3764d883d7d.JPG)
+
+
+
+![paypal2JPG](https://user-images.githubusercontent.com/80118217/180501125-cda292b8-f3b2-4f14-b942-c873cc783f16.JPG)
+
+
+
+![paypal3](https://user-images.githubusercontent.com/80118217/180501159-e7753fcc-d63f-4456-b4dc-97d0848e7f00.JPG)
