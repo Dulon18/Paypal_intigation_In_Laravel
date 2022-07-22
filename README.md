@@ -9,5 +9,13 @@
 
 ## Package
 
-Omnipay .
+Omnipay .https://omnipay.thephpleague.com/installation/
+
+#installation
+
 composer require league/omnipay:^3 omnipay/paypal
+
+
+## Input
+
+![dashboad](https://user-images.githubusercontent.com/80118217/180500845-5cff9df2-6cce-4a67-9576-b6ff4d034996.JPG)
