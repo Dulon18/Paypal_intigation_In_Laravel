@@ -22,10 +22,10 @@ composer require league/omnipay:^3 omnipay/paypal
 
 
 ## Output
+<p align="center">
 
-![paypal](https://user-images.githubusercontent.com/80118217/180500985-0715cf0e-a3fc-4564-8689-f3764d883d7d.JPG)
-
-
+<img src="https://user-images.githubusercontent.com/80118217/180500985-0715cf0e-a3fc-4564-8689-f3764d883d7d.JPG">
+</p>
 
 ![paypal2JPG](https://user-images.githubusercontent.com/80118217/180501125-cda292b8-f3b2-4f14-b942-c873cc783f16.JPG)
 
