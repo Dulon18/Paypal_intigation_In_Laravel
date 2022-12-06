@@ -39,6 +39,6 @@ composer require league/omnipay:^3 omnipay/paypal
 
 
 
-
+<p align="center"><span style="color: red;">&hearts;</span> Thank You <span style="color: red;">&hearts;</span></p>
 
 
